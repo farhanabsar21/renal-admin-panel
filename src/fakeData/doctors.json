@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Sam Dukhergberg",
+        "age": 28,
+        "email": "sam@email.com",
+        "address": "Park Street, New York",
+        "photo": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1534&q=80"
+    },
+    {
+        "name": "Garray Hernandez",
+        "age": 26,
+        "email": "garray@email.com",
+        "address": "Json Street, New Jersey",
+        "photo": "https://images.unsplash.com/photo-1501196354995-cbb51c65aaea?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1502&q=80"
+    },
+    {
+        "name": "Xabi Benega",
+        "age": 30,
+        "email": "xabi@email.com",
+        "address": "Landlock Street, Washington DC",
+        "photo": "https://images.unsplash.com/photo-1488426862026-3ee34a7d66df?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1534&q=80"
+    },
+    {
+        "name": "Martin Benega",
+        "age": 35,
+        "email": "martin@email.com",
+        "address": "Siteberg, Ohio",
+        "photo": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mzl8fHBlb3BsZXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    }
+]
